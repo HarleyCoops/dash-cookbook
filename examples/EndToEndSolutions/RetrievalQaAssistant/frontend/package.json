@@ -24,7 +24,7 @@
     "rehype-sanitize": "^5.0.1",
     "remark-gfm": "^3.0.1",
     "remark-math": "^5.1.1",
-    "swiper": "^11.0.2",
+    "swiper": "^12.1.4",
     "use-bus": "^2.5.2",
     "uuid": "^9.0.0"
   },
