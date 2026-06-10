@@ -12,7 +12,7 @@
   "dependencies": {
     "@microsoft/fetch-event-source": "^2.0.1",
     "uuid": "^14.0.0",
-    "vue": "^3.0.1",
+    "vue": "^3.0.2",
     "vue-markdown": "^2.2.4",
     "vue-material": "^1.0.0-beta-16",
     "vue-router": "^3.0.1"
